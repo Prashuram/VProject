@@ -17,7 +17,7 @@ function Mainnavbar() {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarCollapse">
                         <div className="navbar-nav mx-auto py-0">
-                            <a href="index.html" className="nav-item nav-link active">Home Details</a>
+                            <a href="index.html" className="nav-item nav-link active">Home</a>
                             <a href="about.html" className="nav-item nav-link">About</a>
                             <a href="service.html" className="nav-item nav-link">Service</a>
                             <a href="blog.html" className="nav-item nav-link">Blog</a>
